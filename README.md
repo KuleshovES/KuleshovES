@@ -12,7 +12,7 @@ Here is a link with an example
 ### QA Auto
 Now I am actively studying test automation. I take courses in Java and study materials on the Internet. I am interested in this area and I want to grow in it. To show my knowledge, I made a test project - automating some actions on the site trello.com.
 #### TestProject
-Here "link" you can find my test project with description. 
+Here [myPortfolio](https://github.com/KuleshovES/myPortfolio) you can find my test project with description. 
 ## Contact
 [LinkedIn](www.linkedin.com/in/evgenii-kuleshov)
 
