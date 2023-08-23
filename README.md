@@ -16,6 +16,6 @@ Here [myPortfolio](https://github.com/KuleshovES/myPortfolio) you can find my te
 ## Contact
 [LinkedIn](www.linkedin.com/in/evgenii-kuleshov)
 
-CV: will be...
+[CV:](https://github.com/KuleshovES/KuleshovES/blob/main/CV%20Evgenii%20Kuleshov.pdf) 
 
 mail: es.kuleshov@yahoo.com
