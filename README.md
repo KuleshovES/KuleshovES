@@ -4,10 +4,8 @@ I am a QA engineer with 5+ years of experience. Worked in large IT companies in 
 ## My example Projects
 ### QA Manual
 #### Bug Report
-Here is a link with an example
+Here is an example of a [bug report](https://github.com/KuleshovES/myPortfolio/issues)
 #### Test cases
-Here is a link with an example
-#### Postman
 Here is a link with an example
 ### QA Auto
 Now I am actively studying test automation. I take courses in Java and study materials on the Internet. I am interested in this area and I want to grow in it. To show my knowledge, I made a test project - automating some actions on the site trello.com.
