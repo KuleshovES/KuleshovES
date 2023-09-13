@@ -1,6 +1,6 @@
 # Portfolio
 ## About me
-I am a QA engineer with 5+ years of experience. Worked in large IT companies in Russia: Luxoft, Raiffeisenbank, Kaspersky, etc. I have good experience in testing (web, Rest API), as well as some experience in testing desktop and mobile applications. I am flexible and quickly join the team. I have experience working with Agile methodology (Scrum/Kanban). I am developing in the direction of test automation. I am taking java courses at Hyperskill and Stepik. I currently live in Valencia and am looking for a job in Spain or remotely.
+I created a portfolio page on [Notion](https://es-kuleshov.notion.site/es-kuleshov/Evgenii-Kuleshov-8488f2ce96554dd49fae32416c46a03b). It contains information about me: my experience, my goals, my skills, my CV.
 ## My example Projects
 ### QA Manual
 #### Bug Report
@@ -12,7 +12,7 @@ Now I am actively studying test automation. I take courses in Java and study mat
 #### TestProject
 Here [myPortfolio](https://github.com/KuleshovES/myPortfolio) you can find my test project with description. 
 ## Contact
-[LinkedIn](www.linkedin.com/in/evgenii-kuleshov)
+[LinkedIn](www.linkedin.com/in/es-kuleshov)
 
 [CV:](https://github.com/KuleshovES/KuleshovES/blob/main/CV%20Evgenii%20Kuleshov.pdf) 
 
