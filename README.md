@@ -12,8 +12,10 @@ Now I'm actively studying test automation. I take courses in Java and study mate
 #### TestProject
 Here [myPortfolio](https://github.com/KuleshovES/myPortfolio) you can find my test project on Selenium+TestNG with description. 
 ## Contacts
-[LinkedIn](www.linkedin.com/in/es-kuleshov)
+[LinkedIn](https://www.linkedin.com/in/es-kuleshov/)
+
 [Telegramm](https://t.me/Kes13)
+
 [CV:](https://github.com/KuleshovES/KuleshovES/blob/main/CV%20Evgenii%20Kuleshov.pdf) 
 
 mail: es.kuleshov@yahoo.com
