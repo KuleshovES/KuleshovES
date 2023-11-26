@@ -10,9 +10,9 @@ You can see my example test cases on [Notion site](https://www.notion.so/es-kule
 ### QA Auto
 Now I'm actively studying test automation. I take courses in Java and study materials on the Internet. I am interested in this area and I want to grow in it. To show my knowledge, I made a test project - automating some actions on the site trello.com.
 #### TestProject
-Here [myPortfolio](https://github.com/KuleshovES/myPortfolio_Selenide) you can find my test project on Selenide+TestNG. 
+My example test [portfolio with Selenide+TestNG](https://github.com/KuleshovES/myPortfolio_Selenide). This is a project that I am working on and will improve 
 
-Here [myPortfolio](https://github.com/KuleshovES/myPortfolio_Selenium) you can find my test project on Selenium+TestNG. 
+Here you can find my first test project on [Selenium+TestNG](https://github.com/KuleshovES/myPortfolio_Selenium). 
 ## Contacts
 [LinkedIn](https://www.linkedin.com/in/es-kuleshov/)
 
